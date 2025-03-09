@@ -1,8 +1,5 @@
 # Habit-Tracker
 
-# Habit Tracker
-
-## Description
 The **Habit Tracker** is a Python-based application designed to help users build and maintain positive habits through effective tracking and visualization. The project leverages Python libraries like **Tkinter** for the user interface and **SQLite/MySQL** for data storage, ensuring a seamless and interactive experience.
 
 ## Features
